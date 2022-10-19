@@ -94,6 +94,8 @@ Follow the Step 3 and Step 4 from this guide: [click](https://github.com/skills/
 
 
 ## Sourses
-This guide heavily uses 
+This guide heavily uses
+
 https://docs.github.com
+
 https://github.com/skills/introduction-to-github
