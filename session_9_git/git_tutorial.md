@@ -34,7 +34,8 @@ git init
 Now we can link your local directory to the  remote GitHub repository. A `remote` is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
 
 Copy the link of the repository you created in the `Step 1` . Click on the `Code` button and choose either HTTPS or SSH depending on your git configuration:
-![](pics/code_clone.png.png "img")
+
+![code_clone](./pics/code_clone.png)
 
 Now run:
  ```bash
